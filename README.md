@@ -1,7 +1,8 @@
 # ESP32_BadApple
 This is a fork of hackffm's port of Bad Apple for ESP32. It uses the Heatshrink compression library to decompress the RLE encoded video data. Video and sound are working!
 
-![Bad Apple on ESP32](ESP32_BadApple.jpg)
+[![IMAGE ALT TEXT](Demo.jpg)](https://www.instagram.com/p/BvKYqIXALXK/)
+
 
 ## Hardware Requirements
 - ESP32 boards (any version)
