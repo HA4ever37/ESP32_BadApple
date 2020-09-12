@@ -9,6 +9,7 @@ This is a fork of hackffm's port of Bad Apple for ESP32. It uses the Heatshrink 
 - SH1106 OLED display based on SSD1306
 - DFPlayer Mini MP3 Module
 - SD card
+- Speaker (or two if you want)
 
 ## Software Requirements
 * Arduino 1.8.x
@@ -19,7 +20,7 @@ This is a fork of hackffm's port of Bad Apple for ESP32. It uses the Heatshrink 
 
 # Usage
 * Adapt display pins in main sketch if necessary
-* Use GPIO 16 and 17 of the ESP32 to attach DFPlayer's UART pin
+* Use GPIO 16 and 17 of the ESP32 to attach the DFPlayer's UART pin
 * Copy the audio file to the root directory of the SD card
 * Upload sketch to the ESP32
 * Upload sketch data via "Tools" -> "ESP32 Sketch Data Upload"
