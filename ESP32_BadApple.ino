@@ -1,7 +1,5 @@
-// Bad Apple for ESP32 with OLED SSD1306 | 2018 by Hackerspace-FFM.de | MIT-License.
 #include "FS.h"
 #include "SPIFFS.h"
-//#include "SSD1306.h"
 #include <Adafruit_SH1106.h>
 #include <Adafruit_GFX.h>
 #include "heatshrink_decoder.h"
