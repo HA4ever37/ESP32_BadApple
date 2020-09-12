@@ -5,8 +5,8 @@ This is a fork of hackffm's port of Bad Apple for ESP32. It uses the Heatshrink 
 
 
 ## Hardware Requirements
-- ESP32 boards (any version)
-- SH1106 OLED display based on SSD1306
+- ESP32 board
+- SH1106 OLED display
 - DFPlayer Mini MP3 Module
 - SD card
 - Speaker (or two if you want)
