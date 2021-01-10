@@ -25,7 +25,7 @@ This is a fork of hackffm's port of Bad Apple for ESP32. It uses the Heatshrink 
 * Upload sketch to the ESP32
 * Upload sketch data via "Tools" -> "ESP32 Sketch Data Upload"
 
-Enjoy video with sound :)
+Enjoy the video with sound :)
 
 # How does it work
 Video have been separated into >6500 single pictures, resized to 128x64 pixels using VLC. 
